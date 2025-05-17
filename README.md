@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/course-NTUST-blue)
+![Static Badge](https://img.shields.io/badge/AI-Attack_and_Defense-orange)
 # Face De Identification Attacks and Defenses
 
 ## Files
